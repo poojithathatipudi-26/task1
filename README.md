@@ -1,1 +1,3 @@
 # task1
+BASICS OF WEB DEVELOPMENT
+   Web development is the process of creating websites and web applications that run on the internet. It involves writing code using languages like HTML (for structuring content), CSS (for styling and layout), and JavaScript (for interactivity and dynamic behavior). Web developers build the front-end (what users see and interact with) and sometimes the back-end (servers, databases, and application logic) to deliver seamless online experiences. Understanding these core technologies and how they work together is fundamental to developing functional, attractive, and user-friendly websites.
